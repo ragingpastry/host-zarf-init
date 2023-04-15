@@ -1,0 +1,1 @@
+Just hosts a thing
